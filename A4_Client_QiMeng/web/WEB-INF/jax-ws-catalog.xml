@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://mengqi:8080/A4_WebService_QiMeng/QiMengWebService?wsdl" uri="wsdl/mengqi_8080/A4_WebService_QiMeng/QiMengWebService.wsdl"/>
+    <system systemId="http://mengqi:8080/A4_WebService_QiMeng/QiMengWebService?xsd=1" uri="wsdl/mengqi_8080/A4_WebService_QiMeng/QiMengWebService.xsd_1.xsd"/>
+</catalog>
